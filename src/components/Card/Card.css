@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 13px;
+
+}
+
+.name-info {
+    margin: 25px;
+}
+
+.main-img {
+    border-radius: 50%;
+}
+
+.name {
+    color: red;
+}
+
+.email {
+    margin: 10px;
+}
