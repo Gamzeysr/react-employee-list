@@ -1,3 +1,7 @@
+## Employee-List🎉
+![emplooyee-list](https://user-images.githubusercontent.com/108168084/196277818-f2c7c623-a3aa-4a10-8e7d-0b9a4f58c7de.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
