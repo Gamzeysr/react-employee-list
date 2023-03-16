@@ -4,6 +4,7 @@
     background-color: rgb(196, 7, 7);
     border-radius: 15px;
     margin-bottom: 20p;
+    padding: 1rem;
 }
 
 .next {
@@ -11,4 +12,6 @@
     padding: 8px;
     background-color: rgb(196, 7, 7);
     border-radius: 15px;
+    padding: 1rem;
+
 }
