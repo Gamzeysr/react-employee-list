@@ -1,5 +1,7 @@
-import React from 'react';
+
 import './Button.css';
+
+
 
 const Button = ({ total, page, setPage }) => {
     return (
@@ -10,5 +12,8 @@ const Button = ({ total, page, setPage }) => {
         </div>
     )
 }
+
+
+
 
 export default Button
